@@ -1,3 +1,3 @@
 ### Java-test-2 rep
-## For learning and testing Java
+## For some testing java files
 * Probably for deletion
